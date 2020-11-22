@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://henkedaniil.github.io/project/de/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/tags/3/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/post/self/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/tags/indeed/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/post/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/tags/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henkedaniil.github.io/project/</loc>
+  </url>
+  
+</urlset>
